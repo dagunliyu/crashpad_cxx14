@@ -14,11 +14,15 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Crashpad
+Unofficial version, only for self-testing and adapt for other projects of CXX14
+
+• See official version: [Crashpad](https://crashpad.chromium.org/)
+
+------------------------
 
 [Crashpad](https://crashpad.chromium.org/) is a crash-reporting system.
 
-## Documentation
+- Documentation
 
  * [Project status](doc/status.md)
  * [Developing Crashpad](doc/developing.md): instructions for getting the source
@@ -27,12 +31,12 @@ limitations under the License.
  * [Crashpad tool man pages](doc/man.md)
  * [Crashpad overview design](doc/overview_design.md)
 
-## Source Code
+- Source Code
 
 Crashpad’s source code is hosted in a Git repository at
 https://chromium.googlesource.com/crashpad/crashpad.
 
-## Other Links
+- Other Links
 
  * Bugs can be reported at the [Crashpad issue
    tracker](https://crashpad.chromium.org/bug/).
